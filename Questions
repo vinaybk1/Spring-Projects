@@ -1,0 +1,46 @@
+Spring security
+JPA and hibernate
+Java security
+Transaction manager in jpa
+
+how do you keep out certain things out of transactions
+Springboot anotations
+profiles
+microservices patterns
+
+mutuable object
+
+idempotent methods
+
+what does jwt contain
+
+how does oauth work
+
+comparable comparator
+REstcontroller vs Controller
+JPA entity
+native queries
+paging
+request param vs header param
+idempotent methods
+Try with Resources and Streams - java 8 features
+Cloud and Container
+pipeline yaml
+Completable Future
+microservices architecture
+contract between hashcode and equals
+
+difference between equals and ==
+
+Bulk update/insert --prepared statement
+Stream APIs - groupBy
+XML Parsers in Java
+Java 17 features
+Testing Rest controllers - Spring MockMvc
+Rest Template
+
+Circuit Breaker implementation
+
+when do you use constructor and setter based injection
+How do you check for singleton of object using ==
+How do you partition kafka
