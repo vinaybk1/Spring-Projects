@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: YS90LI
+Build-Jdk: 21.0.7
+Implementation-Title: boot-jdbc
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.javainuse
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/boot-jdbc
+Created-By: Maven Integration for Eclipse
+
